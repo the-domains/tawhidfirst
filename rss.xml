@@ -4,7 +4,7 @@
         <description><![CDATA[TawhidFirst!]]></description>
         <link>https://thegrid.ai/tawhidfirst/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 11:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 11:54:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tawhidfirst/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TawhidFirst!]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/tawhidfirst/tawhidfirst/index.html</link>
             <guid isPermaLink="false">c1861ac8-8b02-4a69-a390-78719a917fd4</guid>
             <pubDate>Sun, 06 Mar 2016 11:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/Cc2qMbfWEAAZZXU.jpg:large">]]></description>
-            <link>https://twitter.com/</link>
-            <guid isPermaLink="false">c437e1f4-398f-4e5c-a63b-6db62d472d41</guid>
-            <pubDate>Sun, 06 Mar 2016 11:51:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
