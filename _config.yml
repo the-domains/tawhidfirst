@@ -1,6 +1,6 @@
 name: 'TawhidFirst!'
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.7557403300888836
 title: 'TawhidFirst!'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#515151'
     - '#c9ab63'
     - '#01a2e6'
-  brandStrength: 0.875
-  lightness: 0.25
-  saturation: 0.75
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
