@@ -1,6 +1,6 @@
 name: 'TawhidLinks!'
 favicon: null
-layout_spectrum: 0.981
+layout_spectrum: 1
 typography_spectrum: 0.99087
 title: 'TawhidLinks!'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#515151'
     - '#c9ab63'
     - '#01a2e6'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
